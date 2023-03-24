@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **a lot of C++**
 
-- 👨‍💻 some project presentations are available at [https://www.behance.net/dorianfonseca2002](https://www.behance.net/dorianfonseca2002)
+- 👨‍💻 Some project presentations are available at [https://www.behance.net/dorianfonseca2002](https://www.behance.net/dorianfonseca2002)
 
 - 💬 Ask me about **anything you want**
 
