@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorian2002&label=Profile%20views&color=ff66cf&style=flat" alt="dorian2002" /> </p>
 
-- 🔭 I’m currently working on Project T for @Carpentic
+- 🔭 I’m currently working on Project T for [Carpentic](https://www.carpentic.com)
 
 - 🌱 I’m currently learning **a lot of C++**
 
