@@ -4,7 +4,7 @@
 - 🔭 **Focus:** Building robust, scalable systems to create user-friendly tools.
 - 🛠️ **Background:** Professional C#/.NET Software Engineering since **2022**.
 - 🚀 **Current:** Crafting experiences with [RockSaladStudio](https://github.com/RockSaladStudio).
-- 🎮 **Portfolio:** Check my games on [Itch.io](https://dorianf.itch.io) or check sources on [Github](https://github.com/Dorian2002/).
+- 🎮 **Portfolio:** Check my games on [Itch.io](https://dorianf.itch.io) or check technical elements and sources on [Github](https://github.com/Dorian2002/).
 
 <h3>Connect with me :</h3>
 <a href="https://linkedin.com/in/dorian-fonseca-b441771b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorian-fonseca-b441771b3" height="30" width="40" /></a>
